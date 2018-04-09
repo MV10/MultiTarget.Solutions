@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿// .NET Framework 4.5.1 implementation
 namespace Library
 {
     public class Hello : IHello

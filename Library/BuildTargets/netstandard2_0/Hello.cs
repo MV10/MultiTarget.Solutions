@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿// .NET Standard 2.0 implementation
 namespace Library
 {
     public class Hello : IHello
